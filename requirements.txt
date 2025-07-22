@@ -1,0 +1,10 @@
+python-dotenv
+pandas==1.5.3
+numpy==1.24.4
+SQLAlchemy==1.4.49
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+prettytable==2.5.0
+streamlit
